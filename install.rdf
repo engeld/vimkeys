@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>vimkeys@hut</em:id>
+		<em:name>Vimkeys</em:name>
+		<em:version>0.2.115</em:version>
+		<em:creator>hut</em:creator>
+		<em:description>Adds vim keybindings.</em:description>
+		<em:translator>k : scroll up by 1 line</em:translator>
+		<em:translator>j : scroll down by 1 line</em:translator>
+		<em:translator>K : scroll up by 1 page</em:translator>
+		<em:translator>J : scroll down by 1 page</em:translator>
+		<em:translator>g : scroll to top</em:translator>
+		<em:translator>G : scroll to bottom</em:translator>
+		<em:translator>------------------------</em:translator>
+		<em:translator>H : back in history</em:translator>
+		<em:translator>L : forward in history</em:translator>
+		<em:translator>r : reload</em:translator>
+		<em:translator>R : reload, ignoring cache</em:translator>
+		<em:translator>s : stop loading</em:translator>
+		<em:translator>-------------------------</em:translator>
+		<em:translator>h : previous tab</em:translator>
+		<em:translator>l : next tab</em:translator>
+		<em:translator>d : close tab</em:translator>
+		<em:translator>u : undo closing tab</em:translator>
+		<em:translator>t : new tab</em:translator>
+		<em:translator>--------------------------</em:translator>
+		<em:translator>: : focus address bar</em:translator>
+		<em:targetApplication>
+			<Description>
+				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+				<em:minVersion>3.0</em:minVersion>
+				<em:maxVersion>3.6.*</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+    </Description>
+</RDF>
+
