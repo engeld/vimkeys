@@ -15,8 +15,8 @@ $ cd ~/Library/Application Support/Firefox/Profiles/fr4vxxec.default/extensions
 $ git clone git@github.com:engeld/vimkeys.git
 ```
 
-------
-
+Supported keybindings
+---------------------
 ```
 Key | Action
 ----+-------------------------
