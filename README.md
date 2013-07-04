@@ -1,7 +1,5 @@
 Vimkeys - Firefox Extension
-
-------------------------------
-
+===========================
 This small extension gives you the most useful
 keybindings from the text-editor vim.
 
@@ -9,8 +7,9 @@ I want to keep this as small as possible, so there is no
 settings window. If you want to add/change keys, please
 edit the source.
 
-------------------------------
+------
 
+```
 Key | Action
 ----+-------------------------
  k  | scroll up by 1 line
@@ -33,5 +32,5 @@ Key | Action
  t  | new tab
 ----+-------------------------
  :  | focus address bar
-    |
+```
 
