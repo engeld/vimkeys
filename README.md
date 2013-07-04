@@ -7,6 +7,14 @@ I want to keep this as small as possible, so there is no
 settings window. If you want to add/change keys, please
 edit the source.
 
+Installation
+------------
+Just clone this repo into the extensions-folder of your firefox profile-folder and restart firefox
+```shell
+$ cd ~/Library/Application Support/Firefox/Profiles/fr4vxxec.default/extensions
+$ git clone git@github.com:engeld/vimkeys.git
+```
+
 ------
 
 ```
