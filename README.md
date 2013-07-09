@@ -1,5 +1,7 @@
 Vimkeys - Firefox Extension
 ===========================
+*(originally developed/maintained by __hut__, but it seems like it's been abandoned for 2 years)*
+
 This small extension gives you the most useful
 keybindings from the text-editor vim.
 
