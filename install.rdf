@@ -7,26 +7,6 @@
 		<em:version>0.2.2</em:version>
 		<em:creator>engeld</em:creator>
 		<em:description>Adds vim keybindings.</em:description>
-		<em:translator>k : scroll up by 1 line</em:translator>
-		<em:translator>j : scroll down by 1 line</em:translator>
-		<em:translator>K : scroll up by 1 page</em:translator>
-		<em:translator>J : scroll down by 1 page</em:translator>
-		<em:translator>g : scroll to top</em:translator>
-		<em:translator>G : scroll to bottom</em:translator>
-		<em:translator>------------------------</em:translator>
-		<em:translator>H : back in history</em:translator>
-		<em:translator>L : forward in history</em:translator>
-		<em:translator>r : reload</em:translator>
-		<em:translator>R : reload, ignoring cache</em:translator>
-		<em:translator>s : stop loading</em:translator>
-		<em:translator>-------------------------</em:translator>
-		<em:translator>h : previous tab</em:translator>
-		<em:translator>l : next tab</em:translator>
-		<em:translator>d : close tab</em:translator>
-		<em:translator>u : undo closing tab</em:translator>
-		<em:translator>t : new tab</em:translator>
-		<em:translator>--------------------------</em:translator>
-		<em:translator>: : focus address bar</em:translator>
 		<em:targetApplication>
 			<Description>
 				<!-- the id below is the GUID of firefox -->
