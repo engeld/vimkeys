@@ -5,7 +5,7 @@
 		<em:id>vimkeys@engeld.cc</em:id>
 		<em:name>Vimkeys</em:name>
 		<em:version>0.2.2</em:version>
-		<em:creator>hut</em:creator>
+		<em:creator>engeld</em:creator>
 		<em:description>Adds vim keybindings.</em:description>
 		<em:translator>k : scroll up by 1 line</em:translator>
 		<em:translator>j : scroll down by 1 line</em:translator>
@@ -29,6 +29,8 @@
 		<em:translator>: : focus address bar</em:translator>
 		<em:targetApplication>
 			<Description>
+				<!-- the id below is the GUID of firefox -->
+				<!-- see https://addons.mozilla.org/en-US/firefox/pages/appversions/ -->
 				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
 				<em:minVersion>3.0</em:minVersion>
 				<em:maxVersion>25.*</em:maxVersion>
