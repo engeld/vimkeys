@@ -44,3 +44,7 @@ Key | Action
  :  | focus address bar
 ```
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/engeld/vimkeys/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
