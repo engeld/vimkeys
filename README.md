@@ -14,7 +14,7 @@ Installation
 Just clone this repo into the extensions-folder of your firefox profile-folder and restart firefox
 ```shell
 $ cd ~/Library/Application Support/Firefox/Profiles/fr4vxxec.default/extensions
-$ git clone git@github.com:engeld/vimkeys.git
+$ git clone git@github.com:engeld/vimkeys.git vimkeys@engeld.cc
 ```
 
 Supported keybindings
