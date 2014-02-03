@@ -7,11 +7,13 @@ keybindings from the text-editor vim.
 
 I want to keep this as small as possible, so there is no
 settings window. If you want to add/change keys, please
-edit the source.
+edit the source and send a pull request.
 
 Installation
 ------------
-Just clone this repo into the extensions-folder of your firefox profile-folder and restart firefox
+You can find and install the latest release directly at [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/vimkeys/).
+
+If you want the bleeding-edge development edition, then clone this repo into the extensions-folder of your firefox profile-folder and restart firefox
 ```shell
 $ cd ~/Library/Application Support/Firefox/Profiles/fr4vxxec.default/extensions
 $ git clone git@github.com:engeld/vimkeys.git vimkeys@engeld.cc
