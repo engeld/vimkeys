@@ -8,6 +8,7 @@
 		<em:creator>engeld</em:creator>
 		<em:description>Adds vim keybindings.</em:description>
 		<em:homepageURL>http://engeld.github.io/vimkeys/</em:homepageURL>
+		<em:type>2</em:type>
 		<em:targetApplication>
 			<Description>
 				<!-- the id below is the GUID of firefox -->
