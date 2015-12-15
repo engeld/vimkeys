@@ -1,2 +1,0 @@
-content vimkeys content/
-overlay chrome://browser/content/browser.xul chrome://vimkeys/content/overlay.xul

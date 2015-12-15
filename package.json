@@ -1,0 +1,16 @@
+{
+  "title": "vimkeys",
+  "name": "vimkeys",
+  "version": "0.2.3",
+  "description": "Adds vim keybindings.",
+  "main": "index.js",
+  "author": "Dana Engel",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
